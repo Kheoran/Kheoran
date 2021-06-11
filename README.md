@@ -14,7 +14,6 @@ The most important thing for me is to learn new things every day.
 
 This year I worked on my graduation movie with 7 precious mates. I was Technical Director and I really enjoyed finding solutions and making concrete ideas from other departments.
 I shared my tools with other students, they were used on 6 movies and by 40 artist’s in the same campus (I have shared to other campuses but I don’t know how many people used my tools.)
-I never capitalize on my tools because my reward is the idea that these tools are useful.
 I think sharing and helping are the most important values for working as a team.
 
 This year I have been responsible for the renderfarm, by creating scripts and communicating issues with the IT.
